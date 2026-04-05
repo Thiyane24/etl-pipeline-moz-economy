@@ -4,7 +4,7 @@ from datetime import datetime
 
 
 def read_csv():
-    df = pd.read_csv('Data/messy_economy_moz (1).csv', dtype = str)
+    df = pd.read_csv('Data/original/messy_economy_moz (1).csv', dtype = str)
     return df
     
     
