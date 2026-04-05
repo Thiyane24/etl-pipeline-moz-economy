@@ -1,0 +1,11 @@
+Indicator Code,Indicator Name,years_with_data,total_possible_years,completeness_pct
+PA.NUS.ATLS,DEC alternative conversion factor (LCU per US$),41,76,53.94736842105263
+DT.ODA.ODAT.CD,Net official development assistance received (current US$),38,76,50.0
+DT.ODA.ODAT.PC.ZS,Net ODA received per capita (current US$),37,76,48.68421052631579
+NY.ADJ.DMIN.CD,Adjusted savings: mineral depletion (current US$),33,76,43.421052631578945
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",32,76,42.10526315789474
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",32,76,42.10526315789474
+NY.ADJ.AEDU.GN.ZS,Adjusted savings: education expenditure (% of GNI),30,76,39.473684210526315
+NY.ADJ.DNGY.CD,Adjusted savings: energy depletion (current US$),29,76,38.1578947368421
+BX.GRT.EXTA.CD.WD,"Grants, excluding technical cooperation (BoP, current US$)",28,76,36.8421052631579
+BM.TRF.PWKR.CD.DT,"Personal remittances, paid (current US$)",27,76,35.526315789473685

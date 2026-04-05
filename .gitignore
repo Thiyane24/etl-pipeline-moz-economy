@@ -2,8 +2,4 @@ __pycache__/
 pipeline/__pycache__/
 *.pyc
 .env
-database/
-Data/bronze_raw/
-Data/silver/
-Data/gold/
 .DS_Store
