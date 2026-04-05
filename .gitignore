@@ -1,4 +1,5 @@
 __pycache__/
+pipeline/__pycache__/
 *.pyc
 .env
 database/
