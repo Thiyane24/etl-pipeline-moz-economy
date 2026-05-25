@@ -1,5 +1,7 @@
 # ETL Pipeline: Mozambique Economic Data
 
+**Looking for a custom ETL pipeline for your business? [Hire me on Fiverr](https://www.fiverr.com/thiyane24/build-custom-etl-data-pipelines-in-python-and-sql)**
+
 ## Overview
 
 This is an ETL (Extract, Transform, Load) pipeline that processes Mozambique's economic data from the World Bank. The pipeline extracts data from a CSV file, cleans and standardizes it, loads it into a database, and answers business questions about the data.
